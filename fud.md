@@ -1,5 +1,7 @@
 This is a document containing a compilation of statements that may provoke fear, uncertainty, and doubt, yet are contradicted by the principles of physics.
 
+## Document on Fear, Uncertainty, and Doubt Contradicted by Physics and Facts
+#### General Misconceptions
 - You have to build muscle and lose weight at the same time
 - You need a workout room
 - You will need more help
