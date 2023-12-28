@@ -1,0 +1,61 @@
+This is a document containing a compilation of statements that may provoke fear, uncertainty, and doubt, yet are contradicted by the principles of physics.
+
+- You have to build muscle and lose weight at the same time
+- You need a workout room
+- You will need more help
+- You will not have the time
+- You will not have the drive
+- You will need a personal trainer
+- You will need to read books
+- You will need to go to collage
+- The Tonal is not enough
+- You cannot be replaced by AI
+- An AI cannot create what I can
+- You do not have the talent
+- ANNs will not be enough
+- Biological Compute > Classical Compute
+- Fasting is dangerous
+- Fasting will cause you to lose your lean muscle mass 
+- Glucagon-like peptide-1 are not reliable
+- You cannot land a rocket
+- You cannot colonize the moon or mars
+- You need expensive equipment to stay fit.
+- You can't achieve significant fitness goals at home.
+- Only young people can learn new technologies effectively.
+- You can't maintain a healthy lifestyle with a busy schedule.
+- Advanced education is necessary for success in all fields.
+- You can't change career paths successfully later in life.
+- Renewable energy sources can't fully replace fossil fuels.
+- Electric vehicles will never be as efficient as gasoline cars.
+- Space travel is too dangerous for regular exploration.
+- Artificial intelligence will never understand human emotions.
+- Telemedicine is less effective than in-person doctor visits.
+- You can't grow enough food in urban environments.
+- Personalized medicine is too complex to be practical.
+- You can't reverse environmental damage.
+- Virtual reality can't replicate real-life experiences.
+- Quantum computing is too theoretical to be useful.
+- You can't protect privacy in the digital age.
+- Robots will never be able to perform complex human tasks.
+- You can't achieve work-life balance in a tech-driven world.
+- Traditional classrooms are the only effective way to learn.
+- Tesla cars are too expensive for the average person.
+- The batteries in Tesla vehicles won't last long and are too costly to replace.
+- Tesla's self-driving technology isn't safe and can't handle real-world driving conditions.
+- The production quality of Tesla cars is inconsistent and unreliable.
+- Tesla's electric vehicles can't match the performance of traditional gasoline cars.
+- The range of Tesla cars is insufficient for long-distance travel.
+- Charging a Tesla is inconvenient and time-consuming compared to refueling a gas car.
+- Tesla's business model is unsustainable in the long-term automotive market.
+- Tesla won't be able to maintain its market lead with increasing competition.
+- The environmental impact of producing Tesla's batteries negates their green benefits.
+- Tesla's reliance on software updates for critical functions is risky and unproven.
+- The resale value of Tesla cars will drop significantly over time.
+- Tesla's solar products and energy solutions are not as efficient as traditional energy sources.
+- The company's ambitious projects, like the Hyperloop and Mars colonization, are unrealistic.
+- Tesla's impact on the traditional automotive industry is overestimated.
+- The company won't be able to scale up production to meet global demand.
+- Tesla's approach to direct sales and service centers is not viable long-term.
+- The hype around Tesla is driven more by Elon Musk's personality than the company's achievements.
+- Tesla's contribution to renewable energy and sustainability is exaggerated.
+- The company's aggressive timelines for new products and features are unrealistic.
